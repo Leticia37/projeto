@@ -10,4 +10,6 @@ int numero;
 
    if(numero % 2 == 0)
    printf("0 %d e part!". numero);
+   
+   return 0;
 }
